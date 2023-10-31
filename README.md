@@ -1,16 +1,15 @@
-### Hi there 👋
+# Rick Brannan
 
-<!--
-**RickBrannan/RickBrannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Employer(s)
 
-Here are some ideas to get you started:
+* **[BiblioNexus](https://biblionexus.org).** This is my full-time gig. We're working to eradicate Bible poverty with open source software that helps church-centric teams translate the Bible faster and better.
+* **[Clear Team at Biblica](https://clear.bible).** I work limited part-time hours on contract for Biblica. I work on creating and refining existing Greek and Hebrew linguistic data in support of Bible translation. Teams (like BiblioNexus) use this data as a foundation for several things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other stuff
+
+I write. I research. Some of the output of that work is available as public repos here.
+
+## What am I doing now?
+
+My current non-work focus (so, no BiblioNexus or Biblica involvement) is research and writing for the _Baylor Handbook on the Apostolic Fathers_ volume(s) on the _Shepherd of Hermas_. I've got a draft of the Visions together and am (slowly but surely) working on a content review. Lots of work left to do here.
+
