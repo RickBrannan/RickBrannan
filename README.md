@@ -2,7 +2,7 @@
 
 ## Employer(s)
 
-* **[BiblioNexus](https://biblionexus.org).** This is my full-time gig. We're working to eradicate Bible poverty with open source software that helps church-centric teams translate the Bible faster and better. My current task involves writing code to sift through a huge amount of data about people, places, and other stuff in the Bible to create a new and fairly comprehensive information infrastructure in support of translation that will also be openly licensed.
+* **[BiblioNexus](https://biblionexus.org).** This is my full-time gig. We're working to eradicate Bible poverty with open source software that helps church-centric teams translate the Bible faster and better. Check out my recent work in the [openly-licensed ACAI dataset](https://github.com/BibleAquifer/ACAI) which includes information on people and places in the Bible, and so much more.
 * **[Clear Team at Biblica](https://clear.bible).** I work limited part-time hours on contract for Biblica. I work on creating and refining existing Greek and Hebrew linguistic data in support of Bible translation. Teams (like BiblioNexus) use this data as a foundation for several things.
 * **You.** I have some ability to take on contract work. If you're looking for some data wrangling or even some proofing or editing, hit me up.
 
