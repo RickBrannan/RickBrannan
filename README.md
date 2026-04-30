@@ -12,4 +12,4 @@ I write. I research. Some of the output of that work is available as public repo
 
 ## What am I doing now?
 
-My current non-work focus (so, no Mission Mutual) is research and writing for the _Baylor Handbook on the Apostolic Fathers_ volume(s) on the _Shepherd of Hermas_. I've got drafts together for the _Visions_ and _Mandates_ but lots of restructuring and revision is ahead.
+My current non-work focus (so, no Gloo) is research and writing for the _Baylor Handbook on the Apostolic Fathers_ volume(s) on the _Shepherd of Hermas_. I've got drafts together for the _Visions_ and _Mandates_ but lots of restructuring and revision is ahead.
